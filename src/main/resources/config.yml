@@ -1,0 +1,4 @@
+# Vida del jefe (max 2048 por defecto en spigot.yml)
+boss-health: 1500
+# Multiplicador del daño de TODOS sus ataques (1.0 = normal, 2.0 = doble)
+damage-multiplier: 1.0
