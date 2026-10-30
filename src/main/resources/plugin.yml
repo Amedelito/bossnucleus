@@ -1,0 +1,13 @@
+name: NucleonBoss
+main: com.radiactivo.nucleon.NucleonPlugin
+version: 1.0.0
+api-version: '1.21'
+description: Jefe final NUCLEON, Corazon del Reactor
+commands:
+  nucleon:
+    description: Gestiona el jefe final
+    usage: /nucleon <spawn|kill|give>
+    permission: nucleon.admin
+permissions:
+  nucleon.admin:
+    default: op
